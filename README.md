@@ -1,86 +1,66 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "b0d41f6e",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "<!DOCTYPE html>\n",
-    "<html lang=\"en\">\n",
-    "<head>\n",
-    "    <meta charset=\"UTF-8\">\n",
-    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n",
-    "    <title>Your Portfolio</title>\n",
-    "    <link rel=\"stylesheet\" href=\"styles.css\"> <!-- Link to your CSS file -->\n",
-    "</head>\n",
-    "<body>\n",
-    "    <header>\n",
-    "        <h1>Your Name</h1>\n",
-    "        <nav>\n",
-    "            <ul>\n",
-    "                <li><a href=\"#about\">About Me</a></li>\n",
-    "                <li><a href=\"#skills\">Skills</a></li>\n",
-    "                <li><a href=\"#projects\">Projects</a></li>\n",
-    "                <li><a href=\"#contact\">Contact</a></li>\n",
-    "            </ul>\n",
-    "        </nav>\n",
-    "    </header>\n",
-    "    \n",
-    "    <section id=\"hero\">\n",
-    "        <h2>Welcome to My Portfolio</h2>\n",
-    "        <p>Short tagline or introduction here.</p>\n",
-    "    </section>\n",
-    "    \n",
-    "    <section id=\"about\">\n",
-    "        <h3>About Me</h3>\n",
-    "        <p>Write a brief biography here.</p>\n",
-    "    </section>\n",
-    "    \n",
-    "    <section id=\"skills\">\n",
-    "        <h3>Skills</h3>\n",
-    "        <ul>\n",
-    "            <li>HTML</li>\n",
-    "            <li>CSS</li>\n",
-    "            <li>JavaScript</li>\n",
-    "            <!-- Add more skills -->\n",
-    "        </ul>\n",
-    "    </section>\n",
-    "    \n",
-    "    <section id=\"projects\">\n",
-    "        <h3>Projects</h3>\n",
-    "        <div class=\"project\">\n",
-    "            <h4>Project Title</h4>\n",
-    "            <p>Description of the project.</p>\n",
-    "            <a href=\"#\">View Project</a>\n",
-    "        </div>\n",
-    "        <!-- Add more projects -->\n",
-    "    </section>\n",
-    "    \n",
-    "    <section id=\"contact\">\n",
-    "        <h3>Contact Me</h3>\n",
-    "        <form>\n",
-    "            <input type=\"text\" placeholder=\"Your Name\" required>\n",
-    "            <input type=\"email\" placeholder=\"Your Email\" required>\n",
-    "            <textarea placeholder=\"Your Message\" required></textarea>\n",
-    "            <button type=\"submit\">Send</button>\n",
-    "        </form>\n",
-    "    </section>\n",
-    "    \n",
-    "    <footer>\n",
-    "        <p>&copy; 2025 Your Name</p>\n",
-    "    </footer>\n",
-    "</body>\n",
-    "</html>\n"
-   ]
-  }
- ],
- "metadata": {
-  "language_info": {
-   "name": "python"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>India Bass</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="hero">
+        <h2>Welcome to My Portfolio</h2>
+        <p>Short tagline or introduction here.</p>
+    </section>
+    
+    <section id="about">
+        <h3>About Me</h3>
+        <p>Write a brief biography here.</p>
+    </section>
+    
+    <section id="skills">
+        <h3>Skills</h3>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <!-- Add more skills -->
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h3>Projects</h3>
+        <div class="project">
+            <h4>Project Title</h4>
+            <p>Description of the project.</p>
+            <a href="#">View Project</a>
+        </div>
+        <!-- Add more projects -->
+    </section>
+    
+    <section id="contact">
+        <h3>Contact Me</h3>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Your Name</p>
+    </footer>
+</body>
+</html>
