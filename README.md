@@ -30,8 +30,7 @@
     <form>
         <input type="text" placeholder="_India Bass_" required>
         <input type="email" placeholder="india313_26580" required>
-        <textarea placeholder="Your Message" required></textarea>
-        <button type="submit">Send</button>
+       indiabass72@gmail.com
     </form>
 </section>
 
